@@ -36,7 +36,7 @@ Run the Python script to perform encryption and decryption:
 
 bash
 
-      python ImageEncryption.py
+    python ImageEncryption.py
       
 The encrypted image will be saved as encrypted_image.bin, and the decrypted image as decrypted_kermit.png.
 
